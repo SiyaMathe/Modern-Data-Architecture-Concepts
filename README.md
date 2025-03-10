@@ -50,6 +50,9 @@ Modern data architecture is not a one-size-fits-all approach. Organizations shou
 * Optimized for analytical processing (OLAP).
 * Benefits: Data integration, quality, decision-making, historical analysis, performance, scalability, security.
 
+![image](https://github.com/user-attachments/assets/f844cf08-9bff-4964-8745-fe4a44239a94)
+
+
 ### DATA MART
 
 * Subset of a data warehouse focused on a specific business function.
@@ -57,6 +60,10 @@ Modern data architecture is not a one-size-fits-all approach. Organizations shou
 * Simplified access and improved performance.
 * Enhanced data governance and flexibility.
 * Cost-effective compared to a full data warehouse.
+
+
+![image](https://github.com/user-attachments/assets/c9dd7d0e-5ee7-48c3-8452-336d2e0c41dd)
+
 
 ### DATA LAKE
 
@@ -68,12 +75,21 @@ Modern data architecture is not a one-size-fits-all approach. Organizations shou
 * Requires robust governance and security.
 * Promotes data democratization.
 
+
+
+![image](https://github.com/user-attachments/assets/e57f2bce-ff22-4d71-8dc5-390d6dbcde12)
+
+
 ### DATA PIPELINE
 
 * Processes to extract, transform, and load (ETL) data.
 * Components: Ingestion, transformation, storage, integration, validation, orchestration, delivery.
 * Tools: Apache Kafka, Airflow, Spark, NiFi.
 * Benefits: Reliability, freshness, automation, scalability, governance.
+
+
+![image](https://github.com/user-attachments/assets/04ad8fa3-e922-45b3-bf39-484db3dfa0ac)
+
 
 ### DATA MESH
 
@@ -84,6 +100,10 @@ Modern data architecture is not a one-size-fits-all approach. Organizations shou
 * Data as a product.
 * Addresses scalability and agility challenges.
 
+
+![image](https://github.com/user-attachments/assets/9cd8f140-94d2-4688-9ed8-983ef6be18ad)
+
+
 ### DATA LAKE HOUSE
 
 * Combines data lake and data warehouse features.
@@ -92,6 +112,10 @@ Modern data architecture is not a one-size-fits-all approach. Organizations shou
 * Supports hybrid workloads.
 * Incorporates data governance and security.
 
+
+![image](https://github.com/user-attachments/assets/bfe1fe69-f70f-4a4d-87b1-e982b5972a9a)
+
+
 ### DATA SWAMP
 
 * Disorganized and unmanageable data lake.
@@ -99,6 +123,10 @@ Modern data architecture is not a one-size-fits-all approach. Organizations shou
 * Characteristics: Lack of organization, poor quality, limited discoverability, inadequate governance, lack of collaboration.
 * Negative consequences: reduced productivity, inaccurate decisions, increased costs, compliance and security risks.
 * Requires governance and data maintenance.
+
+
+![image](https://github.com/user-attachments/assets/f519b2e2-bc03-43c4-8656-cb9f067de26f)
+
 
 ### DATA FABRIC
 
