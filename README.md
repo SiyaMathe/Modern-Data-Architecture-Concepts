@@ -1,4 +1,4 @@
-# Modern-Data-Architecture- and related Concepts
+# Modern-Data-Architecture-and-related-Concepts
 
 
 Modern data architecture is a contemporary approach to designing and implementing data systems that can effectively handle the challenges and opportunities presented by the ever-increasing volume, variety, and velocity of data.
